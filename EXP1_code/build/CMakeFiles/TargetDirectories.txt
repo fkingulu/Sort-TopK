@@ -1,0 +1,3 @@
+/media/lphnb/OS/Users/lph/Desktop/课程/算法设计与分析/实验1/EXP1_code/build/CMakeFiles/experiment1.dir
+/media/lphnb/OS/Users/lph/Desktop/课程/算法设计与分析/实验1/EXP1_code/build/CMakeFiles/edit_cache.dir
+/media/lphnb/OS/Users/lph/Desktop/课程/算法设计与分析/实验1/EXP1_code/build/CMakeFiles/rebuild_cache.dir
